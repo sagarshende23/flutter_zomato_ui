@@ -45,7 +45,7 @@ Design Credit : https://www.uplabs.com/posts/zomato-originals-concept-design
 
 
 ## 🤝 Show Some Support #
-If you liked the app give this repo a ⭐️ 
+###### If you 👍 the project, do not forget ⭐️ me Stay tuned for the latest updates [Follow me](https://github.com/sagarshende23) 🤙
 
 
 ## 🐛 Bugs/Requests #
