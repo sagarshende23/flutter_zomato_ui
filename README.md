@@ -28,6 +28,8 @@
 
 ## 📱 Screenshots #
 
+Design Credit : https://www.uplabs.com/posts/zomato-originals-concept-design
+
 <img src="https://raw.githubusercontent.com/sagarshende23/flutter_zomato_ui/master/preview.png" >
 
 <p align="center">
