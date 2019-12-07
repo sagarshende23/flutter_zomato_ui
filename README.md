@@ -25,6 +25,9 @@
 
 <img src="https://raw.githubusercontent.com/sagarshende23/flutter_zomato_ui/master/zomato.gif" width="1100">
 
+## 🖥 Flutter Tutorial
+All Flutter Tutorials plus additional Code and shorter posts can be found on the [Official AllTechSavvy website](https://www.alltechsavvy.com/). 
+
 
 ## 📱 Screenshots #
 
