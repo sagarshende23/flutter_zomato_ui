@@ -25,6 +25,15 @@
 
 <img src="https://raw.githubusercontent.com/sagarshende23/flutter_zomato_ui/master/zomato.gif" width="1100">
 
+<h2 align="center">
+    <br>
+  Download the Following App for Preview 
+  <br>
+</h2>
+<p align="center">
+<a href="https://api.codemagic.io/artifacts/639da869-0eaa-453b-a013-304269374f4f/3a35b54e-bfcf-4ad2-9696-b3a93c7fef57/app-release.apk" title="Image from PNG Image"><img src="https://pngimage.net/wp-content/uploads/2018/05/download-android-app-png-4.png" height=85px width=350px alt="download android app png 4"></a>
+</p>
+
 ## 🖥 Flutter Tutorial
 All Flutter Tutorials plus additional Code and shorter posts can be found on the [Official AllTechSavvy website](https://www.alltechsavvy.com/). 
 
