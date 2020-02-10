@@ -63,6 +63,16 @@ Design Credit : https://www.uplabs.com/posts/zomato-originals-concept-design
 ## 🐛 Bugs/Requests #
 If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
 
+## Social Media Links
+
+<a href="https://www.youtube.com/alltechsavvy"><img src="https://image.flaticon.com/icons/svg/733/733590.svg"  width="60" ></a>
+<a href="https://www.facebook.com/theSagarShende"><img src="https://image.flaticon.com/icons/svg/174/174848.svg"  width="60" ></a>
+<a href="https://www.linkedin.com/in/sagarshende"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="60"></a>
+<a href="https://twitter.com/sagarshende95"><img src="https://image.flaticon.com/icons/svg/174/174876.svg" width="60"></a>
+<a href="https://www.instagram.com/sagarshende95/"><img src="https://image.flaticon.com/icons/svg/1409/1409946.svg" width="60"></a>
+<a href="https://medium.com/@SagarShende"><img src="https://image.flaticon.com/icons/svg/174/174858.svg" width="60"></a>
+
+
 ## 💰 Donation
 
 <img width="400" alt="inceptive-donate_artboard_2_2x_2x" src="https://user-images.githubusercontent.com/43273993/64881998-ca9a2f80-d679-11e9-98ec-e4f0d5470dbd.png">
