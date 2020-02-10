@@ -63,7 +63,7 @@ Design Credit : https://www.uplabs.com/posts/zomato-originals-concept-design
 ## 🐛 Bugs/Requests #
 If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
 
-## Social Media Links
+## 🎉 Social Media Links
 
 <a href="https://www.youtube.com/alltechsavvy"><img src="https://image.flaticon.com/icons/svg/733/733590.svg"  width="60" ></a>
 <a href="https://www.facebook.com/theSagarShende"><img src="https://image.flaticon.com/icons/svg/174/174848.svg"  width="60" ></a>
