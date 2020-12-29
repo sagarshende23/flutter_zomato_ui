@@ -77,8 +77,6 @@ If you encounter any problems feel free to open an issue. If you feel the librar
 
 [<img align="center" alt="AllTechSavvy | Medium" width="50" src="https://image.flaticon.com/icons/svg/733/733590.svg" />](https://www.youtube.com/alltechsavvy "YouTube AllTechSavvy")&ensp;YouTube:  [@AllTechSavvy](https://www.youtube.com/alltechsavvy "AllTechSavvy AllTechSavvy")
 
-
-
 [<img align="center" alt="SagarShende | Medium" width="40" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />](https://www.instagram.com/sagarshende95 "Instagram Sagar Shende")&ensp;Instagram: [@SagarShende](https://www.instagram.com/sagarshende95/ "Medium Sagar Shende")
 
 
