@@ -68,12 +68,19 @@ If you encounter any problems feel free to open an issue. If you feel the librar
 
 ## 🎉 Social Media Links
 
-<a href="https://www.youtube.com/alltechsavvy"><img src="https://image.flaticon.com/icons/svg/733/733590.svg"  width="60" ></a>
-<a href="https://www.facebook.com/theSagarShende"><img src="https://image.flaticon.com/icons/svg/174/174848.svg"  width="60" ></a>
-<a href="https://www.linkedin.com/in/sagarshende"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="60"></a>
-<a href="https://twitter.com/sagarshende95"><img src="https://image.flaticon.com/icons/svg/174/174876.svg" width="60"></a>
-<a href="https://www.instagram.com/sagarshende95/"><img src="https://image.flaticon.com/icons/svg/1409/1409946.svg" width="60"></a>
-<a href="https://medium.com/@SagarShende"><img src="https://image.flaticon.com/icons/svg/174/174858.svg" width="60"></a>
+
+[<img align="center" alt="sagarshende | Twitter" width="40" src="https://image.flaticon.com/icons/svg/174/174876.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsagarshende95&screen_name=SagarShende95)&ensp;Twitter: [@sagarshende95](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsagarshende95&screen_name=SagarShende95)
+
+[<img align="center" alt="sagarshende | LinkedIn" width="40" src="https://image.flaticon.com/icons/svg/174/174857.svg" />](https://linkedin.com/in/sagarshende "Linkedin Sagar Shende")&ensp;Linkedin: [@SagarShende](https://linkedin.com/in/sagarshende "Linkedin Sagar Shende")
+
+[<img align="center" alt="SagarShende | Medium" width="40" src="https://image.flaticon.com/icons/svg/174/174858.svg" />](https://medium.com/@SagarShende "Medium Sagar Shende")&ensp;Medium: [@SagarShende](https://medium.com/@SagarShende "Medium Sagar Shende")
+
+[<img align="center" alt="AllTechSavvy | Medium" width="50" src="https://image.flaticon.com/icons/svg/733/733590.svg" />](https://www.youtube.com/alltechsavvy "YouTube AllTechSavvy")&ensp;YouTube:  [@AllTechSavvy](https://www.youtube.com/alltechsavvy "AllTechSavvy AllTechSavvy")
+
+
+
+[<img align="center" alt="SagarShende | Medium" width="40" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />](https://www.instagram.com/sagarshende95 "Instagram Sagar Shende")&ensp;Instagram: [@SagarShende](https://www.instagram.com/sagarshende95/ "Medium Sagar Shende")
+
 
 
 ## 💰 Donation
